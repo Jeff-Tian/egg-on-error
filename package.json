@@ -13,7 +13,7 @@
     "error-handling"
   ],
   "dependencies": {
-    "cookie": "^0.4.0",
+    "cookie": "^0.7.0",
     "egg-onerror": "^2.1.0",
     "mustache": "^3.1.0",
     "stack-trace": "^0.0.10",
